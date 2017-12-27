@@ -2,7 +2,8 @@
 
 Hello, I am Elian Griffioen, second year Methodology & Statistics student at Utrecht University. Currently, I spend my time on a master thesis in which I try to find individualized donor strategies for anti-RhD donors. Anti-RhD antibodies are necessary to prevent haemolytic disease of the newborn, a disease that might occur when RhD-negative mothers are pregnant of a RhD-positive foetus. [Sanquin](https://www.sanquin.nl/en/), the Dutch National Blood Bank, collects these antibodies from a donor pool. My research focuses on deriving individual donor treatments based on their personal characteristics such that the total production of antibodies increases compared to the previous situation in which all donors share a similar treatment.
 
-Before my master in Methods & Statistics
+## More about me
+Before my master in Methods & Statistics, I finished the bachelor programmes Chemistry and Psychology (both cum laude) at Utrecht University. 
 
 ### Markdown
 
