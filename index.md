@@ -1,9 +1,16 @@
-## Elian Griffioen
+# Elian Griffioen
 
 Hello, I am Elian Griffioen, second year Methodology & Statistics student at Utrecht University. Currently, I spend my time on a master thesis in which I try to find individualized donor strategies for anti-RhD donors. Anti-RhD antibodies are necessary to prevent haemolytic disease of the newborn, a disease that might occur when RhD-negative mothers are pregnant of a RhD-positive foetus. [Sanquin](https://www.sanquin.nl/en/), the Dutch National Blood Bank, collects these antibodies from a donor pool. My research focuses on deriving individual donor treatments based on their personal characteristics such that the total production of antibodies increases compared to the previous situation in which all donors share a similar treatment.
 
-## More about me
-Before my master in Methods & Statistics, I finished the bachelor programmes Chemistry and Psychology (both cum laude) at Utrecht University. I decided to go for statistics because of the combination of using advanced statistical methods based on mathematical foundations and researching real world problems. After one year of in depth courses about statistics like Statistical Programming in R, Bayesian Statistics, Multilevel and Structural Equation Modelling, I choose to focus my electives on data science and econometrics.Therefore, I followed elective courses on machine learning and data mining and joined courses in econometrics. Next to my thesis work, I am student assistant of [Rens van de Schoot ](https://www.rensvandeschoot.com/elian-griffioen/) and helps with his work as a member of the [Young Academy](https://www.dejongeakademie.nl/en?set_language=en) in the field of scientific integrity. Furthermore, I am secretary of the [Young Statisticians](http://youngstatisticians.nl/index.html) Board, a group of people that aims to organize events for all statisticians in the Netherlands on a montly basis.
+# More about me
+Before my master in Methods & Statistics, I finished the bachelor programmes Chemistry and Psychology (both cum laude) at Utrecht University. I decided to go for statistics because of the combination of using advanced statistical methods based on mathematical foundations and researching real world problems. After one year of in depth courses about statistics like Statistical Programming in R, Bayesian Statistics, Multilevel and Structural Equation Modelling, I choose to focus my electives on data science and econometrics.Therefore, I followed elective courses on machine learning and data mining and joined courses in econometrics. Next to my thesis work, I am student assistant of [Rens van de Schoot](https://www.rensvandeschoot.com/elian-griffioen/) and helps with his work as a member of the [Young Academy](https://www.dejongeakademie.nl/en?set_language=en) in the field of scientific integrity. Furthermore, I am secretary of the [Young Statisticians](http://youngstatisticians.nl/index.html) Board, a group of people that aims to organize events for all statisticians in the Netherlands on a montly basis.
+
+
+
+
+# Contact
+
+You can contact me via [Facebook](https://www.facebook.com/elian.griffioen?ref=bookmarks), [LinkedIn](https://www.linkedin.com/in/elian-griffioen-5b7818103/) and email via e.griffioen@students.uu.nl
 
 ### Markdown
 
