@@ -5,8 +5,9 @@ Hello, I am Elian Griffioen, second year Methodology & Statistics student at Utr
 # More about me
 Before my master in Methods & Statistics, I finished the bachelor programmes Chemistry and Psychology (both cum laude) at Utrecht University. I decided to go for statistics because of the combination of using advanced statistical methods based on mathematical foundations and researching real world problems. After one year of in depth courses about statistics like Statistical Programming in R, Bayesian Statistics, Multilevel and Structural Equation Modelling, I choose to focus my electives on data science and econometrics.Therefore, I followed elective courses on machine learning and data mining and joined courses in econometrics. Next to my thesis work, I am student assistant of [Rens van de Schoot](https://www.rensvandeschoot.com/elian-griffioen/) and helps with his work as a member of the [Young Academy](https://www.dejongeakademie.nl/en?set_language=en) in the field of scientific integrity. Furthermore, I am secretary of the [Young Statisticians](http://youngstatisticians.nl/index.html) Board, a group of people that aims to organize events for all statisticians in the Netherlands on a montly basis.
 
+# Simulation
 
-
+[Test](Exercise 5.Rmd)
 
 # Contact
 
