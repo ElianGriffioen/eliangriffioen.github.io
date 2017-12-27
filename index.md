@@ -11,8 +11,23 @@ Before my master in Methods & Statistics, I finished the bachelor programmes Che
 
 You can contact me via [Facebook](https://www.facebook.com/elian.griffioen?ref=bookmarks), [LinkedIn](https://www.linkedin.com/in/elian-griffioen-5b7818103/) and email via e.griffioen@students.uu.nl
 
-### Markdown
+# My work
 
+## Master thesis
+
+## Publications
+
+[Janssen, M., Griffioen, E., Biesheuvel, P. M., Van Roij, R., & Erné, B. (2017). Coulometry and Calorimetry of Electric Double Layer Formation in Porous Electrodes. Physical review letters, 119(16), 166002.](https://arxiv.org/pdf/1707.00120.pdf)
+
+## Presentations and assignments
+
+
+
+
+
+
+### Markdown
+```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Syntax highlighted code block
 
