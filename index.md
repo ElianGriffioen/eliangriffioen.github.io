@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ElianGriffioen/eliangriffi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Elian Griffioen
+## Elian Griffioen
 
 Hello, I am Elian Griffioen, second year Methodology & Statistics student at Utrecht University.
 
