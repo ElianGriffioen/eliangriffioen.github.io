@@ -9,7 +9,9 @@ Before my master in Methods & Statistics, I finished the bachelor programmes Che
 
 # Research
 
-The research during my chemistry bachelor thesis focused on blue energy, a method to gain energy by mixing salty sea and fresh river water. During the blue energy (capacitive mixing) cycle, a current flows through a system immersed in alternately salt and fresh water by charging and discharging porous carbon electrodes. 
+The research during my chemistry bachelor thesis focused on blue energy, a method to gain energy by mixing salty sea and fresh river water. During the blue energy (capacitive mixing) cycle, a current flows through a system immersed in alternately salt and fresh water by charging and discharging porous carbon electrodes. Under adiabatic circumstances (no heat exchange with environment), heat effects during the charging steps were theoretically derived but not experimentally validated. Under supervision of dr. Ben Erné (Physical and Colloid Chemistry)
+
+
 ## Education
 
 August 2017: Teaching assistant @ Applied Multivariate Analysis Summer School, Utrecht University
