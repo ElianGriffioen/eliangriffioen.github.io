@@ -15,7 +15,7 @@ Before my master in Methods & Statistics, I finished the bachelor programmes Che
 
 ## Curriculum vitae
 
-My curriculum vitae will be shown after clicking this [link](Curriculum vitae.pdf)
+My curriculum vitae will be shown after clicking this [link](Curriculum Vitae.pdf)
 
 
 
