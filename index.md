@@ -7,7 +7,13 @@ Before my master in Methods & Statistics, I finished the bachelor programmes Che
 
 # My work
 
+## Education
 
+August 2017: Teaching assistant @ Applied Multivariate Analysis Summer School, Utrecht University
+
+April 2017 - now: Private tutor @ Wismon Institute for Private Tutoring
+
+September 2015 - June 2016: Teacher of demo's for pupils from secondary school @ Chemistry lab, Utrecht University
 
 ## Publications
 
@@ -17,40 +23,6 @@ Before my master in Methods & Statistics, I finished the bachelor programmes Che
 
 My curriculum vitae will be shown after clicking this [link](Curriculum Vitae.pdf)
 
-
-
-
 # Contact
 
 You can contact me via [Facebook](https://www.facebook.com/elian.griffioen?ref=bookmarks), [LinkedIn](https://www.linkedin.com/in/elian-griffioen-5b7818103/) and email via e.griffioen@students.uu.nl
-
-
-
-
-
-### Markdown
-```
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElianGriffioen/eliangriffioen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
