@@ -5,22 +5,24 @@ Hello, I am Elian Griffioen, second year Methodology & Statistics student at Utr
 # More about me
 Before my master in Methods & Statistics, I finished the bachelor programmes Chemistry and Psychology (both cum laude) at Utrecht University. I decided to go for statistics because of the combination of using advanced statistical methods based on mathematical foundations and researching real world problems. After one year of in depth courses about statistics like Statistical Programming in R, Bayesian Statistics, Multilevel and Structural Equation Modelling, I choose to focus my electives on data science and econometrics.Therefore, I followed elective courses on machine learning and data mining and joined courses in econometrics. Next to my thesis work, I am student assistant of [Rens van de Schoot](https://www.rensvandeschoot.com/elian-griffioen/) and helps with his work as a member of the [Young Academy](https://www.dejongeakademie.nl/en?set_language=en) in the field of scientific integrity. Furthermore, I am secretary of the [Young Statisticians](http://youngstatisticians.nl/index.html) Board, a group of people that aims to organize events for all statisticians in the Netherlands on a montly basis.
 
-# Simulation
-
-# Contact
-
-You can contact me via [Facebook](https://www.facebook.com/elian.griffioen?ref=bookmarks), [LinkedIn](https://www.linkedin.com/in/elian-griffioen-5b7818103/) and email via e.griffioen@students.uu.nl
-
 # My work
 
-## Master thesis
+
 
 ## Publications
 
 [Janssen, M., Griffioen, E., Biesheuvel, P. M., Van Roij, R., & Erné, B. (2017). Coulometry and Calorimetry of Electric Double Layer Formation in Porous Electrodes. Physical review letters, 119(16), 166002.](https://arxiv.org/pdf/1707.00120.pdf)
 
-## Presentations and assignments
+## Curriculum vitae
 
+My curriculum vitae will be shown after clicking this [link](Curriculum vitae.pdf)
+
+
+
+
+# Contact
+
+You can contact me via [Facebook](https://www.facebook.com/elian.griffioen?ref=bookmarks), [LinkedIn](https://www.linkedin.com/in/elian-griffioen-5b7818103/) and email via e.griffioen@students.uu.nl
 
 
 
@@ -52,6 +54,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElianGriffioen/eliangriffioen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
